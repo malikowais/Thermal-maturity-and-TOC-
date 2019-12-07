@@ -5,6 +5,7 @@ It also contains the data files used for this project.
 
 MATLAB CODE
 
+The codes for all ML techniques for predicting Tmax, VR and TOC are provide.
 
-The data file for MATLAB code is .xlsx. Different sheets are referred in the code.
+The data files for MATLAB codes are stored as .xlsx format.
 
